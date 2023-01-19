@@ -1,0 +1,20 @@
+Ideas para los palos:
+- Moneda de Mario
+- Ring/Esmeralda de Sonic
+- Bayas de Animal Crossing
+- Rupias de Zelda
+- 4 palos de distintas piezas del Tetris
+
+Código de color:
+- Fondo #cecece
+- Reborde #000000
+- Pieza morada, borde #370746, interior #c715ff
+- Pieza azul, borde #141544, interior #4348f3
+
+tamaño carta 33 x 33
+color fondo #cecece
+color negro #000000
+color rojo #981212
+borde rojo #420606
+color amarillo #f2df18
+borde amarillo #46410d 
